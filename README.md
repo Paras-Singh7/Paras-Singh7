@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paras Singh</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-singh7&label=Profile%20views&color=0e75b6&style=flat" alt="paras-singh7" /> </p>
+
 - 🌱 I’m currently learning **Power BI, Mongo DB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Paras-Singh7?tab=repositories](https://github.com/Paras-Singh7?tab=repositories)
@@ -9,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/paras-singh-4b926918a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras-singh-4b926918a" height="30" width="40" /></a>
 <a href="https://instagram.com/sparas348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sparas348" height="30" width="40" /></a>
+<a href="https://hashnode.com/@sparas348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sparas348" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
