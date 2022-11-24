@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-singh7&label=Profile%20views&color=0e75b6&style=flat" alt="paras-singh7" /> </p>
 
 <img width="200" align="right" alt="Github" src="https://raw.githubusercontent.com/Paras-Singh7/Paras-Singh7/27debf1abd0aea467122ffc5e8619d3999a48a71/src/deadpool.svg" />
-- 🌱 I’m currently learning **AWS, Django**
+- 🌱 I’m currently learning __AWS, Django__
 
 - 👨‍💻 All of my projects are available at [https://github.com/Paras-Singh7?tab=repositories](https://github.com/Paras-Singh7?tab=repositories)
 
