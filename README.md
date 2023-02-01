@@ -30,7 +30,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-![contributions](https://user-images.githubusercontent.com/76205618/210294341-2b790f25-2ee2-4d31-8c9c-ecc91e9793c9.svg)
+
 
 ![Paras's github stats](https://github-readme-stats.vercel.app/api?username=Paras-Singh7)
 <br>
