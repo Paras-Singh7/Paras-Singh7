@@ -34,7 +34,7 @@
 
 ![Paras's github stats](https://github-readme-stats.vercel.app/api?username=Paras-Singh7)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Singh7&hide=Jupyter%20Notebook&layout=compact)](https://github.com/Paras-Singh7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Singh7&hide=Jupyter%20Notebook&layout=compact&langs_count=8)](https://github.com/Paras-Singh7/github-readme-stats)
 
 
 
